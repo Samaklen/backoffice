@@ -1,5 +1,5 @@
 const config = {
-    apiPath: 'http://localhost:3001',
+    apiPath: 'https://backoffice-jade-zeta.vercel.app/',
     headers: () => {
         return {
             headers: {
