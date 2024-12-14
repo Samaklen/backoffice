@@ -106,7 +106,7 @@ function BillSale() {
                     Swal.fire({
                         title: 'save',
                         text: 'บันทึกข้อมูลแล้ว',
-                        icon: 'sucess',
+                        icon: 'success',
                         timer: 1000
                     })
                 }
